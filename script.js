@@ -1,2 +1,5 @@
 // Saved Game
-console.log("Top 3 Yoenhsk loaded");
+function updateTop3() {
+    console.log("Updating ranking...");
+}
+setInterval(updateTop3, 5000);
