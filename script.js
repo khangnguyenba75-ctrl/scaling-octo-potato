@@ -1,5 +1,3 @@
-// Saved Game
-function updateTop3() {
-    console.log("Updating ranking...");
-}
-setInterval(updateTop3, 5000);
+setInterval(() => {
+    console.log("🔴 LIVE UPDATE: " + new Date().toLocaleTimeString());
+}, 2000);
