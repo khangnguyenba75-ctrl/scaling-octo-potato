@@ -1,8 +1,10 @@
-# Saved Game - Yoenhsk Top 3 Subs
+# Saved Game
 
-Project hiển thị live subscriber YouTube bằng iframe livecounts.io
+Version 1.2
 
-## Features
-- Top 3 channel display
+Top subscriber iframe system.
+
+Features:
+- Top list
 - Live subscriber counter
-- GitHub Pages ready
+- JavaScript live update
